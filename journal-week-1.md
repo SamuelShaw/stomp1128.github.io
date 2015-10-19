@@ -11,4 +11,4 @@ Branching is arguably one of the most important features within Github and is ke
 
 
 
-
+Proofread by Samuel Shaw
