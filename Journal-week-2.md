@@ -1,3 +1,6 @@
+
+Journal Week 2
+
 Week two is complete at The Iron Yard and I'm starting to see the light!  The long hours and heavy workload have been challenging but the concepts are beginning to make more and more sense with each assignment.  The initial challenges of working with Github and understanding some of the terminology being used in the lectures are gone and we are now focusing on more complicated projects.
 
 Some of the other challenges from week one like creating a storyboard, using auto layout, creating classes, functions, and properties are now common items that we use each day and are becoming more and more familar.  I've also began to notice that each assignment builds off of the previous assignments which has been helpful because it really gives us a chance to get the repitition and practice that we need.
