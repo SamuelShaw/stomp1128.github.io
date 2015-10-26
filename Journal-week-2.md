@@ -8,3 +8,6 @@ Some of the other challenges from week one like creating a storyboard, using aut
 One item that I tried to focus on particularly this week is organizing my code into blocks and understanding where things should go within classes.  As the projects we work on get larger and larger I am starting to see how this will become a very important skill.  Also I put a lot of emphasis on learning how to create functions and why they are important although I feel like I still need some practice when it comes to giving them useful names!
 
 Overall the first two weeks have been very exciting and I'm starting to see exactly what types of applications I will be able to create with my new programming knowledge.  I'm looking forward to what's next!
+
+
+_-Proofread by Samuel Shaw-_
