@@ -24,4 +24,6 @@ The steps below will allow you to create a map that will display points of inter
 18.  Create another property and set place it in an array.  Example: let annotations = [annotation]
 19. Set the map to animate the annotations by using self."name you used for IBOutlet".showAnnotations(annotations, animated: true).  Note that the first placeholder in the () is telling the map what to dispay and the second placeholder is turning animation on or off with a Bool.  A false statement would display the new region immediately without animations.
 20. Sit back and watch your map display all of your pins!
+21. 
+Proofread by Samuel Shaw
   
